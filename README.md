@@ -75,5 +75,5 @@ endmodule
 
 ## RESULT:
 
-Hence the finite state machine has been simulated and synthesised using xilinx ISE.
+Hence the finite state machine has been simulated and synthesised using vivado 2023.2.
 
